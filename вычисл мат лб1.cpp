@@ -28,4 +28,5 @@ int main() {
     cout << "x~ = " << (a + b) / 2 << endl << "f(x~) = " << f((a + b) / 2) << endl<<
         "n (количество итераций) = "<< n <<endl;
     cout << a;
+    //dfkoododododdo
 }
