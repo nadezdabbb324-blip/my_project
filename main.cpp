@@ -1,8 +1,11 @@
-[200~#include <iostream>
+#include <iostream>
 #include <cmath>
+#include <locale>
 using namespace std;
 
 int main() {
-    cout << "Решение системы линейных уравнений" << endl;
-    return 0;
+    setlocale(LC_ALL, "RUSSIAN");
+    cout << "fnfoinfon" << endl;
+
+
 }
